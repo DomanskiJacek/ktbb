@@ -13,7 +13,9 @@ fun main(args: Array<String>) {
     println()
  //   TestConditionals(args)
  //   TestLoop()
-    TestFuns()
+//    TestFuns()
+
+    Test_hofA()
 
     // end on 43min; functions
 
